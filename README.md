@@ -45,6 +45,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rich pull requests with gifs](https://dev.to/getjv/rich-pull-requests-with-gifs-53k9)
+- [HTTP/3: A próxima evolução.](https://dev.to/getjv/http-3-a-proxima-evolucao-29c0)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
