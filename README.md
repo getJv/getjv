@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Updating Iframe height based on his content.](https://dev.to/getjv/updating-iframe-height-based-on-his-content-j8p)
 - [Rich pull requests with gifs](https://dev.to/getjv/rich-pull-requests-with-gifs-53k9)
 - [HTTP/3: A próxima evolução.](https://dev.to/getjv/http-3-a-proxima-evolucao-29c0)
 <!-- BLOG-POST-LIST:END -->
