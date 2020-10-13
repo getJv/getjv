@@ -5,8 +5,8 @@
 
 ## I'm a Husband, Developer, and video game lover!!
 
-- 🌱 I’m currently learning Laravel, Springboot, VueJS and Flutter
-- 👯 I’m looking to international job offers.
+- 🌱 I’m currently learning French, Laravel, Springboot, VueJS and Flutter
+- 👯 I’m looking for international job offers.
 - 🥅 2020 Goals: Contribute more to Open Source and projects become a dev specialist
 - ⚡ Fun fact: I love to play video games, but my actual life style it's denying my rights 🤣
 
