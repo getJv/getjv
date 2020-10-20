@@ -55,7 +55,6 @@
 
 ---
 
-<img align="left" alt="getJv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=getjv&show_icons=true&hide_border=true" />
 
 [website]: https://getjv.github.io
 [twitter]: https://twitter.com/getjv
