@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working with Laravel, ReactJs, VueJS and I studing French
 - 👯 I’m looking for international job offers.
-- 🥅 2020 Goals: Contribute more to Open Source and projects become a dev specialist
+- 🥅 Goals: Contribute more to Open Source and projects become a dev specialist
 - ⚡ Fun fact: I love to play video games, but my actual life style is denying my rights 🤣
 
 ### Connect with me:
