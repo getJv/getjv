@@ -5,34 +5,18 @@
 
 ## I'm a Husband, Developer, and video game lover!!
 
-- 🌱 I’m currently Working with Laravel, ReactJs, VueJS and I studing French
-- 👯 I’m looking for international job offers.
-- 🥅 Goals: Contribute more to Open Source and projects become a dev specialist
-- ⚡ Fun fact: I love to play video games, but my actual life style is denying my rights 🤣
+- 🌱 I’m Working with Web development with Symfony, Laravel, and ReactJs.
+- 🥅 Goals: Contribute more to Open Source and projects and become a dev specialist
+- ⚡ Fun fact: I love to play video games, but my actual lifestyle is denying my rights 🤣
 
 ### Connect with me:
 
 [<img align="left" alt="getjv.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="getjv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="getjv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="getjv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Modifying hook methods with optionMergeStrategies](https://dev.to/getjv/modifying-hook-methods-with-optionmergestrategies-1h5l)
-- [Updating Iframe height based on his content.](https://dev.to/getjv/updating-iframe-height-based-on-his-content-j8p)
-- [Rich pull requests with gifs](https://dev.to/getjv/rich-pull-requests-with-gifs-53k9)
-- [HTTP/3: A próxima evolução.](https://dev.to/getjv/http-3-a-proxima-evolucao-29c0)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 
 [website]: https://getjv.github.io
 [twitter]: https://twitter.com/getjv
-[youtube]: https://youtube.com/jhonatanmorais
-[instagram]: https://instagram.com/getjv
+[youtube]: https://www.youtube.com/@getjv
 [linkedin]: https://linkedin.com/in/jhonatan-morais
